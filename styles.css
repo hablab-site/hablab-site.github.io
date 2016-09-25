@@ -2,6 +2,7 @@ body {
   font-family: Helvetica;
   font-weight: 100;
   transition: 0.3s;
+  cursor: none;
 }
 h1 {
   font-weight: 100;
