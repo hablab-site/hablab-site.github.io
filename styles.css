@@ -1,5 +1,5 @@
 body {
-  font-family: sans-serif;
+  font-family: Helvetica;
   font-weight: 100;
 }
 h1 {
@@ -21,4 +21,7 @@ nav a {
 }
 #current:hover {
   color: #c00000;
+}
+p {
+  line-height: 150%;
 }
