@@ -13,7 +13,7 @@ a {
 a:hover {
   color: #a00000;
 }
-nav {
+nav a {
   margin-right: 20px;
 }
 #current {
