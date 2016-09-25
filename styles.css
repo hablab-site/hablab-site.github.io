@@ -14,3 +14,7 @@ a {
 a:hover {
   color: #a00000;
 }
+#current {
+  background: black;
+  color: white;
+}
