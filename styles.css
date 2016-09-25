@@ -25,3 +25,9 @@ nav a {
 p {
   line-height: 150%;
 }
+#quote {
+  color: #50a000;
+}
+#quote:hover {
+  color: #70c000;
+}
