@@ -6,6 +6,9 @@ h1 {
   font-weight: 100;
 }
 a {
-  color: black;
+  color: #000000;
   text-decoration: none;
+}
+a:hover {
+  color: #200000;
 }
