@@ -13,6 +13,9 @@ a {
 a:hover {
   color: #a00000;
 }
+nav {
+  margin-right: 20px;
+}
 #current {
   color: #a00000;
 }
