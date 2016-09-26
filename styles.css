@@ -31,5 +31,5 @@ p {
   transition: 0.3s;
 }
 #quote:hover {
-  transition: 0.3s;
+  color: #a0f000;
 }
